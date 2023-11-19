@@ -1,0 +1,23 @@
+        body {
+            text-align: center; /* Centrar el contenido en el cuerpo de la página */
+        }
+
+        h2 {
+            font-family: "Arial Black", Arial, sans-serif; /* Cambiar la fuente del título */
+        }
+
+        .imageContainer {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            display: inline-block;
+            text-align: center;
+        }
+        .image {
+            max-width: 100%;
+            display: block;
+        }
+        .imageTitle {
+            margin: 10px 0;
+            font-family: "Arial Black", Arial, sans-serif; /* Cambiar la fuente del título */
+        }
